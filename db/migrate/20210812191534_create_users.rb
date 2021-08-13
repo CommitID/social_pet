@@ -11,6 +11,8 @@ class CreateUsers < ActiveRecord::Migration[5.2]
       t.boolean :avatar, default: false#les utilisateurs n'ont pas d'avatar par défaut
 
       t.timestamps
+
+      
     end
   end
 end

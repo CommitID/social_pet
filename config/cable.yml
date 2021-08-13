@@ -1,4 +1,4 @@
-development:
+m('development'):
   adapter: async
 
 test:
